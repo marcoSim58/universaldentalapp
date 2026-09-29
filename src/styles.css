@@ -125,7 +125,7 @@
 
 @utility glass {
   background: color-mix(in oklab, white 55%, transparent);
-  backdrop-filter: blur(24px) saturate(160%);
+  backdrop-filter: blur(12px) saturate(120%);
   border: 1px solid color-mix(in oklab, white 65%, transparent);
   box-shadow: var(--shadow-glass);
 }
